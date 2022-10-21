@@ -2,8 +2,6 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
-This repo provides an elegant and efficient way for storing globally the Subsocial Api within Context in React
-
 First, run the development server:
 
 ```bash
