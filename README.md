@@ -22,6 +22,6 @@ You can start editing the page by modifying `pages/index.tsx`. The page auto-upd
 # Add utils library
   yarn add @subsocial/utils
 # Add polkadot api
-yarn add @polkadot/api
+  yarn add @polkadot/api
 
 ```
