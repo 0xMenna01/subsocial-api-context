@@ -1,4 +1,4 @@
 export const config = {
-  substrateNodeUrl: "https://crustwebsites.net",
-  ipfsNodeUrl: "https://staging.subsocial.network/ipfs",
+  substrateNodeUrl: "wss://rco-para.subsocial.network",
+  ipfsNodeUrl: "https://crustwebsites.net",
 };
