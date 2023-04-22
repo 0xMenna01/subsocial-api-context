@@ -6,11 +6,6 @@ import styles from "../styles/Home.module.css";
 const Home: NextPage = () => {
   return (
     <div className={styles.container}>
-      <Head>
-        <title>Subsocial University</title>
-        <meta name="description" content="Learn everything about Subsocial" />
-      </Head>
-
       <main className={styles.main}>
         <h1 className={styles.title}>Welcome to Subsocial University</h1>
 

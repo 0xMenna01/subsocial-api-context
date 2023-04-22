@@ -9,9 +9,9 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@polkadot/api": "^9.5.2",
-    "@subsocial/api": "^0.7.6-dev.2",
-    "@subsocial/utils": "^0.7.6-dev.2",
+    "@polkadot/api": "^10.4.1",
+    "@subsocial/api": "^0.8.10",
+    "@subsocial/utils": "^0.8.10",
     "next": "12.3.1",
     "react": "18.2.0",
     "react-dom": "18.2.0"
